@@ -14,11 +14,11 @@
         },
         "API_ID": {
             "description": "Get this value from https://my.telegram.org",
-            "value": "7626510"
+            "value": "13956112"
         },
         "API_HASH": {
             "description": "Get this value from https://my.telegram.org",
-            "value": "ca991bfa07a6ac45e6d5f374c84ab05c"
+            "value": "a14d6d445c6be0a22f4a5ad401e0eab6"
         },
         "API_KEY": {
             "description": "https://droplink.co/member/tools/api",
